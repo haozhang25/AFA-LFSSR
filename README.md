@@ -7,7 +7,7 @@ This is the official PyTorch implementation of the spatial SR method in our pape
 Please download the dataset in the official repository of [BasicLFSR](https://github.com/ZhengyuLiang24/BasicLFSR).
 
 ### Train:
-* Run **`Generate_Data_for_Training.m`** to generate training data.
+* Run `Generate_Data_for_Training.m` to generate training data.
 * Run `train.py` to perform network training.
 * Checkpoint will be saved to `./log/`.
 
