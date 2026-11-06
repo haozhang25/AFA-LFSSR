@@ -12,6 +12,7 @@ Please download the dataset in the official repository of [BasicLFSR](https://gi
 * Checkpoint will be saved to `./log/`.
 
 ### Test:
+* Download the pretrained weight files from [Baidu Drive](https://pan.baidu.com/s/1p035bMlPlsFw8n3Emex0lw?pwd=AFAS) into `./log/`.
 * Run `Generate_Data_for_Test.m` to generate test data.
 * Run `test.py` to perform network inference.
 * The PSNR and SSIM values of each dataset will be saved to `./log/`.
